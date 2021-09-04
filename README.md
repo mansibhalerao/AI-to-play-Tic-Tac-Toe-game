@@ -1,2 +1,3 @@
 # Tic-Tac-Toe-game
-A tic - tac - toe game in python
+-> It is an AI that will play tic-tac-toe game with you.
+-> Built on Min-Max algorithm using Python
